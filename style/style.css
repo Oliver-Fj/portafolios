@@ -200,6 +200,7 @@ section {
   background-color: var(--color-black);
   transition: all 0.4s ease-in-out;
   border: 5px solid var(--color-secondary);
+  overflow: hidden;
 }
 .header-content .left-header .image img {
   width: 100%;
